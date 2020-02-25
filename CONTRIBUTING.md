@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. Clone the repository `git clone https://github.com/BackMarket/github-mermaid-extension.git`
+1. Clone the repository `git clone https://github.com/ns8inc/github-mermaid-extension.git`
 2. Run `yarn`
 3. Run `yarn build`
 
@@ -12,7 +12,7 @@
 
 1. Open Chrome/Opera browser and navigate to chrome://extensions
 2. Select "Developer Mode" and then click "Load unpacked extension..."
-3. From the file browser, choose to `build/chrome` or (`build/opera`)
+3. From the file browser, choose `build/chrome` or (`build/opera`)
 
 ### Load the extension in Firefox
 
