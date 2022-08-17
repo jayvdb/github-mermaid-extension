@@ -46,9 +46,7 @@
 
 ## Install
 
-- <img height="16" src="./resources/icons/chrome.svg"> **Google Chrome**: [GitHub + Mermaid - Chrome Web Store](https://chrome.google.com/webstore/detail/github-%20-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe)
 - <img height="16" src="./resources/icons/firefox.svg"> **Firefox**: [GitHub + Mermaid - Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/github-mermaid/)
-- <img height="16" src="./resources/icons/opera.svg"> **Opera**: coming later
 
 ## Features
 
